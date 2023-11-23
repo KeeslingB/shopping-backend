@@ -10,7 +10,7 @@ The purpose of this project was to connect a front end site to a backend databas
 - [How to Use](#how-to-use)
 - [Credits](#credits)
 - [Contact](#contact)
-- [Project Photos](#project-photos)
+- [Project Video](#project-video)
 
 
 
