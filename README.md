@@ -36,6 +36,9 @@ Stack Overflow came in handing for small snags at times throughout the proccess.
 GitHub  [Here](https://github.com/KeeslingB)
 
 
-## Project Photos
+## Project Video
+
+[Project Walkthrough](https://drive.google.com/file/d/1AUdzz-FQfuE211L6vTiZ2VJFFpmrB6zg/view)
+
 
 
